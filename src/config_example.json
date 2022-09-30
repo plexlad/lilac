@@ -1,0 +1,15 @@
+{
+    "TOKEN": "",
+    "channels": {
+        "poll": "",
+        "roles": "",
+        "bot": "",
+        "presidency": ""
+    },
+    "roles": {
+        "events": "",
+        "ping": "",
+        "admin": "",
+        "mods": ""
+    }
+}
